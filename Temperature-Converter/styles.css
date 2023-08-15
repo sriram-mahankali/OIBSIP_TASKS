@@ -1,0 +1,23 @@
+button{
+    outline-style: none;
+    border-color: #a7a3a3;
+}
+.cbtn{
+    height: 3rem;
+}
+.btn-dar{
+    background-color: #a7a3a3;
+}
+#raj{
+    background-color: #a7a3a3;
+
+}
+.dropdown-toggle {
+    text-align: center;
+}
+
+.main {
+
+    border-radius: 7.5%;
+    color: #454545;
+}
